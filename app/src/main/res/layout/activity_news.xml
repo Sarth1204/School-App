@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".News"
+    android:background="@color/cardview_dark_background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="57dp"
+            android:text="Holidays this year"
+            android:textSize="30sp"
+            android:layout_gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="1 JAN         New Year's Day"
+            android:layout_gravity="center"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="14 JAN        Makar Sankranti"
+            android:layout_gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="26 JAN        Republic Day"
+            android:layout_gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="5 FEB         Basant Panchami     "
+            android:layout_gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="1 MAR         Maha Shrivratri"
+            android:layout_gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="17-18 MAR     Holi"
+            android:layout_gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="4 APR         Sarhul"
+            android:layout_gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="10 Apr        Rama Navami"
+            android:layout_gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="14 APR        Dr BR Amberdkar Jaynti"
+            android:layout_gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="15 APR        Good Friday"
+            android:layout_gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="3 May         Eid-ul-Fitr"
+            android:layout_gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="16 MAy        Buddha Purnima"
+            android:layout_gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="1 July        Rath Yatra"
+            android:layout_gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="10 July       Eid-ul-Zoha   "
+            android:layout_gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="9 Aug         Muharram"
+            android:layout_gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="15 Aug        Independence Day"
+            android:layout_gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="19 Aug        Janmashtami"
+            android:layout_gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="6 Sep         Karma"
+            android:layout_gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="17 Sep        Vishkarma Puja"
+            android:layout_gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="2 Oct         Gandhi Janyti"
+            android:layout_gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="2-5 Oct       Durga Puja"
+            android:layout_gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="9 Oct         Eid-e-Milad-un-Nabi"
+               android:layout_gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="24 Oct        Deepawali"
+            android:layout_gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="25 Oct        Goverdhand Puja"
+            android:layout_gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="31 Oct        Chhath Puja"
+            android:layout_gravity="center"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="8 Nov         Guru Nanak Jaynti"
+            android:layout_gravity="left"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="15 Nov        Birsa Jayti"
+            android:layout_gravity="left"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:text="25 Dec        Christmas"
+            android:layout_gravity="left"/>
+
+
+
+    </LinearLayout>
+</ScrollView>
+
+
+
